@@ -1,0 +1,43 @@
+Digital Face-bow
+
+
+Digital Face-bow
+
+
+Digital Face-bow
+
+
+Statement of problem: Accurately transferring the maxillary cast to the articulator is an essential step in most prosthodontics procedures in both digital and conventional workflows. Recently, the use of a smartphone 3-dimensional (3D) scanner-based virtual facebow record has been reported, but its accuracy is unclear.
+
+Purpose: The purpose of this clinical study was to compare the trueness and precision of a virtual facebow record made with a smartphone 3D scanner with that of a conventional facebow technique.
+
+Material and methods: One hundred facebow records were obtained from 10 participants using a virtual facebow record made with a smartphone 3D scanner (VFR_SP) and with a conventional facebow record (CFR) (n=10). In the VFR_SP group, a printed facebow fork was used to obtain virtual facebow records by using a smartphone-based face scanner. For the CFR group, an analog facebow record was obtained and scanned by using an industrial scanner. A cone beam computed tomography (CBCT) scan with an aligned maxillary arch scan was used as the control for each participant. Three reference points were placed on the maxillary arch scan on the right first molar, left central incisor, and left first molar. Scans from each group were superimposed on the CBCT scan to determine trueness. Scans within each group were also superimposed on each other to determine precision. Linear deviation at the 3 reference points and the angular deviation of occlusal planes were measured using a Python script. The trueness and precision of the 2 groups were compared by using a linear mixed model to account for repeated measures (α=.05).
+
+Results: No significant linear trueness differences between the 2 groups were found (P>.05). However, the VFR_SP group showed significantly less angular deviation: 1.53 degrees for the virtual facebow and 2.03 degrees for the conventional facebow group (P=.046). Regarding precision, the VFR_SP group showed significantly less linear deviation: 1.59 mm for the virtual facebow group and 2.33 mm for the conventional facebow group (P<.001), as well as angular deviation: 1.03 degrees for the virtual facebow group and 2.17 degrees for the conventional facebow (P<.001).
+
+Conclusions: The VFR_SP group showed better accuracy compared with the CFR group. Further research with a larger sample size is needed.
+参考：CBCTを用いた仮想マウンティングの精度（フェイスボウとの比較）
+　　　Journal of Prosthetic Dentistry, 2024
+▶ 要点
+ ・ CBCT＋デジタルマウント法をフェイスボウと比較
+ ・ 仮想マウントの精度を直接比較した臨床研究
+
+▶ 解釈（本文要約）
+ ・ デジタル法は従来法と同等以上の精度を示す可能性
+ ・ 少なくとも「facebowが絶対必要」という根拠は弱い
+Digital Face-bow  - 精度と臨床的許容度 - 
+
+
+5D
+※CT Viewerであることを強調
+3D＋AI＋顔貌データで5D
+AIはAISegmentation機能
+解剖学的構造に分けてDicomからSTLに変換
+
+アーチファクトのひどいケースでも
+STL可することによってスッキリ見れる
+⇒診断の補助ツール
+
+
+
+5
